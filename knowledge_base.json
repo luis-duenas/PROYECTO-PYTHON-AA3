@@ -1,0 +1,35 @@
+{
+    "preguntas": [
+        "¿Cual es la mision del Instituto Certus?",
+        "¿Cuales son los valores fundamentales del Instituto Certus?",
+        "¿Cual es la vision del Instituto Certus?",
+        "¿Cuales son algunas de las carreras tecnicas y profesionales que ofrece el Instituto Certus?",
+        "¿Como apoya el Instituto Certus a sus estudiantes en su busqueda de empleo?",
+        "¿Que es el Instituto Certus?",
+        "¿Que cursos ofrece el Instituto Certus?",
+        "¿Cuales son los requisitos de admision para el Instituto Certus?",
+        "¿Cuanto cuesta matricularse en el Instituto Certus?",
+        "¿El Instituto Certus ofrece becas?",
+        "¿El Instituto Certus tiene programas de intercambio?",
+        "¿Que actividades extracurriculares ofrece el Instituto Certus?",
+        "¿Cual es la tasa de empleo de los graduados del Instituto Certus?",
+        "¿El Instituto Certus tiene profesionales exitosos entre sus ex alumnos?"
+    ],
+    "respuestas": [
+        "La mision del Instituto Certus es formar personas de excelencia que logren sus proyectos de vida.",
+        "Los valores fundamentales del Instituto Certus son la integridad, la pasion, el respeto, la responsabilidad y el trabajo en equipo.",
+        "La vision del Instituto Certus es ser la comunidad educativa reconocida por la calidad de sus egresados gracias a un modelo academico de vanguardia.",
+        "El Instituto Certus ofrece una amplia variedad de carreras tecnicas y profesionales en areas clave del mercado laboral. Algunas de las carreras mas populares en Certus incluyen Administracion de Empresas, Administracion de Negocios Bancarios y Financieros, Administracion de Negocios Internacionales, Administracion de Sistemas para la Transformacion Digital, Administracion y Gestion Comercial, Contabilidad, Marketing, Diseno y Desarrollo de Software, Publicidad y Diseno Grafico.",
+        "El Instituto Certus brinda un soporte integral y potencia el perfil profesional de sus estudiantes a traves de asesorias de empleabilidad, webinars con expertos, alianzas con empresas nacionales e internacionales, charlas con empleadores y bolsa laboral con Bumeran, entre otros.",
+        "El Instituto Certus es una institucion de educacion superior en Peru que ofrece educacion tecnica profesional de calidad disenada con los mas altos estandares de la educacion moderna.",
+        "El Instituto Certus ofrece cursos cortos que te ayudan a perfeccionar tus habilidades especificas y digitales. Puedes estudiar en cualquier momento y recibir retroalimentacion de grandes profesionales. Ofrecen cursos que potencian tus habilidades en Finanzas, Negocios y Tecnologia.",
+        "Los requisitos de admision para el Instituto Certus incluyen una declaracion de disposicion para optar por un titulo tecnico o tecnico profesional, un trabajo de aplicacion profesional y un examen de suficiencia profesional.",
+        "La cuota de inscripcion anual en el Instituto Certus es aproximadamente S/ 220 soles, y la cuota mensual es alrededor de S/ 490 soles.",
+        "Si, el Instituto Certus ofrece becas. Por ejemplo, han hecho una alianza con BCP para ofrecer becas que cubren el 50% de la carrera tecnica y la matricula durante los tres anos de estudio.",
+        "Si, a traves de su asociacion con una universidad en Colombia, el Instituto Certus ofrece programas de intercambio para estudiantes y carreras, actividades conjuntas de investigacion y publicacion, participacion en seminarios, talleres, conferencias de interes mutuo.",
+        "El Instituto Certus ofrece diversas actividades extracurriculares que complementan el aprendizaje del estudiante. Tambien realizan diferentes actividades para ayudar a sus estudiantes a conectarse con empleadores de las mejores empresas.",
+        "Segun el Estudio de Empleabilidad 2021 realizado por iEduca Market Intelligence, 9 de cada 10 graduados del Instituto Certus trabajan para una empresa formal.",
+        "Si, muchos profesionales exitosos fueron alguna vez estudiantes del Instituto Certus. Por ejemplo, Kevin Masquez, graduado en Banca Administrativa, ahora es Coordinador de Ventas en Maquisistemas."
+    ],
+    "palabras_prohibidas": ["insulto", "palabra_inapropiada"]
+}
